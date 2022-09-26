@@ -1,5 +1,9 @@
 ## Welcome to LaCity Github page 👋
 
+### Our partners
+- [XBTO](https://xbto.com)
+- [DevFund](https://linkedin.com/in/ei-ght)
+- [IMCTrading](https://www.imc.com/eu/)
 <!--
 
 **Here are some ideas to get you started:**
